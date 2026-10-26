@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+snapshot*.json
+*-snapshot.json
+base*.json
+article-assets/local/
